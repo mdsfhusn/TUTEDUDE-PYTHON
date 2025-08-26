@@ -1,0 +1,4 @@
+#this is the second task of the assignment 1 on PYTHON Tutedude
+first = input("Enter your first name : ")
+last = input("Enter your last name : ")
+print("Hello, "+first+" "+last+"! Welcome to the Python program.")
