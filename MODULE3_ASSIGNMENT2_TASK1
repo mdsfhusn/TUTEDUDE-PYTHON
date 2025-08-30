@@ -1,0 +1,6 @@
+"""THIS FILE IS FOR MODULE 3 ASSIGNMENT 2 TASK 1 to detect an int as odd/even"""
+num = input("Enter a number : ")
+if int(num)%2==0:
+  print(num," is an even number")
+else:
+  print(num," is an odd number")
