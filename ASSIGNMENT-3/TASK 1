@@ -1,5 +1,4 @@
 """ TUTEDUDE PYTHON ASSIGNMENT 3 TASK 1"""
-
 """ Task 1: Calculate Factorial Using a Function """
 
 def fac(s):
